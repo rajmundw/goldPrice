@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.no-error{
+  color: red;
+  font-size: 16px;
+  display: none;
+}
+.error{
+  color: red;
+  font-size: 16px;
+  display: block;
+}
