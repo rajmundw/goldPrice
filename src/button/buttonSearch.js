@@ -3,7 +3,7 @@ import React from "react";
 const buttonSearch = (props) =>{
     //apiRequest
     const newFetch = (data1, data2) => {                                                      // zapytanie do serwera
-         fetch(`http://api.nbp.pl/api/cenyzlota/${data1}/${data2}`)
+         fetch(`https://api.nbp.pl/api/cenyzlota/${data1}/${data2}`)
             //to make a json answer proper format
             .then(resp => resp.json())
             .then(data => {
