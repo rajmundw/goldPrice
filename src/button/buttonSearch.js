@@ -15,7 +15,7 @@ const buttonSearch = (props) =>{
                 props.currentState(data[0].data.substr(0, 4), data[0].data.substr(5, 2))
             }).catch(() => {
                 //error
-                fetch(`http://api.nbp.pl/api/cenyzlota/${data1}/${data2}`)
+                fetch(`https://api.nbp.pl/api/cenyzlota/${data1}/${data2}`)
                     .then(error => {
                         //make a div with error visible
                         document.getElementById('error').className='error'
