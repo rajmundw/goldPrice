@@ -1,13 +1,13 @@
 {
   "main.css": "/goldPrice/static/css/main.be5bcfd3.chunk.css",
-  "main.js": "/goldPrice/static/js/main.1ecbdcac.chunk.js",
-  "main.js.map": "/goldPrice/static/js/main.1ecbdcac.chunk.js.map",
+  "main.js": "/goldPrice/static/js/main.fd4ecc7c.chunk.js",
+  "main.js.map": "/goldPrice/static/js/main.fd4ecc7c.chunk.js.map",
   "static/js/1.f739feb7.chunk.js": "/goldPrice/static/js/1.f739feb7.chunk.js",
   "static/js/1.f739feb7.chunk.js.map": "/goldPrice/static/js/1.f739feb7.chunk.js.map",
   "runtime~main.js": "/goldPrice/static/js/runtime~main.6d60b535.js",
   "runtime~main.js.map": "/goldPrice/static/js/runtime~main.6d60b535.js.map",
   "static/css/main.be5bcfd3.chunk.css.map": "/goldPrice/static/css/main.be5bcfd3.chunk.css.map",
   "index.html": "/goldPrice/index.html",
-  "precache-manifest.55de293e2dfc1c23aa30b68b87ffa6bd.js": "/goldPrice/precache-manifest.55de293e2dfc1c23aa30b68b87ffa6bd.js",
+  "precache-manifest.36dc835db7c48167ec1023000956fb4a.js": "/goldPrice/precache-manifest.36dc835db7c48167ec1023000956fb4a.js",
   "service-worker.js": "/goldPrice/service-worker.js"
 }
