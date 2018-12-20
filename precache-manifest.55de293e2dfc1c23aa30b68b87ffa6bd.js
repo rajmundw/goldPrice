@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/goldPrice/static/js/runtime~main.6d60b535.js"
   },
   {
-    "revision": "ca61818428a743e41663",
-    "url": "/goldPrice/static/js/main.ca618184.chunk.js"
+    "revision": "1ecbdcac11eb0969b32c",
+    "url": "/goldPrice/static/js/main.1ecbdcac.chunk.js"
   },
   {
     "revision": "f739feb7d61c48a46bed",
     "url": "/goldPrice/static/js/1.f739feb7.chunk.js"
   },
   {
-    "revision": "ca61818428a743e41663",
+    "revision": "1ecbdcac11eb0969b32c",
     "url": "/goldPrice/static/css/main.be5bcfd3.chunk.css"
   },
   {
-    "revision": "cda15850df7e86259392c407dfd26003",
+    "revision": "5c512456b399b66b6d28b8eaffd12794",
     "url": "/goldPrice/index.html"
   }
 ];

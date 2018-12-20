@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/goldPrice/precache-manifest.f80c7041f903c71a8a6f53da0c3e6689.js"
+  "/goldPrice/precache-manifest.55de293e2dfc1c23aa30b68b87ffa6bd.js"
 );
 
 workbox.clientsClaim();
