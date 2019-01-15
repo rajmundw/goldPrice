@@ -25,6 +25,11 @@
   <li>Showing errors with reason of its</li>
 </ul>
 
+<h2>Live:</h2>
+<ul>
+	<li>https://rajmundw.github.io/goldPrice/</li>
+</ul>
+
 <h2>ToDo:</h2>
 <ul>
 	<li>RWD</li>
